@@ -7,3 +7,4 @@ Ranchi is the capital of the Indian state of Jharkhand. Ranchi was the centre of
 
 
   For more information, check out Ranchi on Wilkipedia[ Developed by @ Alok Oraon. ]
+a
